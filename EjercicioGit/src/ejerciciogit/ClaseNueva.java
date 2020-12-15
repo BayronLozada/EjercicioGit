@@ -11,6 +11,6 @@ package ejerciciogit;
  */
 public class ClaseNueva {
     public static void main ( String[] args){
-        System.out.println("Se crea en la rama la clase nueva");
+        System.out.println("Se crea en la rama la nueva clase.");
     }
 }
